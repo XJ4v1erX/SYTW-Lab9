@@ -1,0 +1,16 @@
+.screen {
+    height: 100%;
+    width: 100%;
+    padding: 0 10px;
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    font-weight: bold;
+    box-sizing: border-box;
+    font-size: 4rem;
+    margin-top: 2rem;
+    background-color: #000000; /* Cambiar a tu color de fondo deseado */
+    color: #d1d1d1; /* Cambiar a tu color de texto deseado */
+}
+
+
